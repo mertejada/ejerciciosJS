@@ -4,7 +4,8 @@
   "description": "Ejercicios Clase 1ER Trimestre",
   "main": "00_declaracionVariables.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "autodocs": "./node_modules/jsdoc/jsdoc.js *.js -d docs"
   },
   "repository": {
     "type": "git",
