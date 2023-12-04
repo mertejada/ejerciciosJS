@@ -1,0 +1,19 @@
+{
+  "name": "ejercicios-clase",
+  "version": "1.0.0",
+  "description": "Ejercicios Clase 1ER Trimestre",
+  "main": "00_declaracionVariables.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mertejada/ejerciciosJS.git"
+  },
+  "author": "Mercedes Tejada Porcel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mertejada/ejerciciosJS/issues"
+  },
+  "homepage": "https://github.com/mertejada/ejerciciosJS#readme"
+}
